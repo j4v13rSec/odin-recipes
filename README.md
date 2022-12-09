@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+In this project I will learn to work with the different HTML tags such as hyperlinks, paragraph creation, etc. It also brings you some delicious easy-to-prepare recipes so you can enjoy all your homemade meals.
